@@ -1,0 +1,17 @@
+{
+    "chain_name": "OmniFlix-GoN",
+    "api": ["https://rest.gon-flixnet.omniflix.io:443"], 
+    "rpc": ["https://rpc.gon-flixnet.omniflix.io:443"],
+    "sdk_version": "0.46.5",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "assets": [{
+        "base": "uflix",
+        "symbol": "FLIX",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/omniflix.png"
+    }],
+    "addr_prefix": "omniflix",
+    "logo": "/logos/omniflix.png"
+}
